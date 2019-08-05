@@ -11,5 +11,4 @@ export LD_LIBRARY_PATH=/opt/local/lib:$LD_LIBRARY_PATH
 export PS1="\[\033[33;2m\]\W\[\033[m\]\$ "
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
-alias d='cd ..'
 alias gs='git status'
